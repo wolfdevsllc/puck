@@ -32,7 +32,7 @@
     "recipes/*",
     "packages/*"
   ],
-  "version": "0.16.2",
+  "version": "0.18.0-canary.56e06dc",
   "engines": {
     "node": ">=18"
   }

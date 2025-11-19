@@ -1,6 +1,6 @@
 {
   "name": "docs",
-  "version": "0.16.2",
+  "version": "0.18.0-canary.56e06dc",
   "private": true,
   "scripts": {
     "dev": "next dev",
